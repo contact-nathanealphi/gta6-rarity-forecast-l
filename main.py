@@ -267,7 +267,7 @@ TAUS = [0.05, 0.25, 0.5, 0.75, 0.95]
 PEEK_AT = ("2026-11-19T03:00:00Z", "2026-11-19T03:30:00Z")
 PEEK_HORIZON_MIN = 90
 PEEK_N_LAUNCH = 638
-PEEK_SIGMA = 0.10
+PEEK_SIGMA = 0.03
 # Refresh-1 rates (percent, trophy-id order 1..55) from the recorded
 # snapshot gta6-rarity-data/snapshots/2026-11-19T1127Z.json.
 PEEK_RATES = [0.1, 100.0, 0.49, 0.23, 0.23, 0.23, 0.23, 0.23, 0.23,
